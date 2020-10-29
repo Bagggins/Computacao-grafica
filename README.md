@@ -1,3 +1,6 @@
+#Intro
+Codigo produzido durante o Curso de Jogos digitais, durante o terceiro semestre.
+
 # Server
 
 No Windows baixar e rodar o server.exe, abrir o browser no http://localhost:8080
@@ -12,4 +15,3 @@ https://www.shaderific.com/glsl
 https://developer.mozilla.org/
 
 # CURSO ONLINE
-https://www.udacity.com/course/interactive-3d-graphics--cs291
