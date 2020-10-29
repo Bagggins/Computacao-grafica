@@ -1,6 +1,6 @@
 # Intro
 
-Codigo produzido durante o Curso de Jogos digitais, durante o terceiro semestre.
+Codigo produzido durante o Curso de Jogos digitais, no terceiro semestre.
 
 # Server
 
