@@ -14,5 +14,3 @@ https://www.shaderific.com/glsl
 
 # MDN
 https://developer.mozilla.org/
-
-# CURSO ONLINE
